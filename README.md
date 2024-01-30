@@ -1,8 +1,8 @@
 - 👋 Olá, Eu me chamo Marlon Vinicius
-tenho 23 anos e sou formado em Ciências da Computação.
+tenho 24 anos e sou formado em Ciências da Computação.
 Sou apaixonado por toda area da tecnologia da informação e especialmente a area de desenvolvimento de softwares.
 Meu ingês é avançado, correndo atrás para ser fluente e conhecer o mundo.
-Atualmente estou codando em .NET 6 como language principal e me divirto em alguns outros projetos em Java e Node js com TypeScript.
+Atualmente estou codando em .NET 7 como language principal e me divirto em alguns outros projetos em Java e Node js com TypeScript.
 
 Aberto a novos desafios, pois são necessários!!
 
